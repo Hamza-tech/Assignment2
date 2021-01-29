@@ -1,0 +1,10 @@
+.Charstyle {
+    background-color: aliceblue;
+    display: inline-block;
+    padding: 16px;
+    text-align: center;
+    margin: 16px;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: 3px 3px;
+}
